@@ -27,7 +27,6 @@ function colorize(clickEvent){
 }
 
 function changeColor(clickEvent){
-
     chosenColor = clickEvent.target.value
 }
 
